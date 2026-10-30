@@ -18,5 +18,3 @@ Work through the TODOs in this order:
 2. `src/components/EventList.vue`: v-model, computed filtering, v-for with keys, passing events up
 3. `src/App.vue`: state that changes when you book; bonus: watch + localStorage
 
-You are done when `npm test` passes (15 tests) and `npm run check` shows no errors.
-The last App test ("keeps my bookings after a reload") is the bonus.
